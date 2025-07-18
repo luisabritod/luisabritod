@@ -16,7 +16,7 @@
 <!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/luisabritodias/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"/>
-<a href="mailto:lulubritodias@gmail.com"><img src="https://img.shields.io/badge/-lulubritodias@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
+<a href="mailto:luisabritodev@gmail.com"><img src="https://img.shields.io/badge/-luisabritodev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 
 ## 🛠 Tech Stack
 ### 💻 Front-end:
