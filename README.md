@@ -1,43 +1,51 @@
-# Olá! Eu sou Luisa 👋  
+# Hi there, I'm Luísa! 👋
 
-## 👩‍💻 About Me
+### Software Developer | Flutter & Mobile Specialist | Full Stack
 
-- 👩‍💻 Sou desenvolvedora Flutter e estudante de Engenharia de Computação na UFOP, na reta final do curso.  
+I'm a Computer Engineering student at **UFOP** passionate about transforming lines of code into scalable solutions. My journey started in IT Support, gave me a strong problem-solving background, and evolved into **Mobile Engineering**.
 
-- 🚀 Apaixonada por desenvolvimento mobile, gosto de Flutter pela integração entre frontend e backend e pelo grande incentivo que tive para aprender a tecnologia. Tenho experiência com React, React Native e JavaScript. Já participei de um projeto acadêmico de desenvolvimento de sistemas móveis e web para gerenciamento de leitos hospitalares.  
+Currently, I focus on the full mobile lifecycle, from pixel-perfect UI with **Flutter** to Backend integration and **App Store deployment**.
 
-- 💡 Curto desafios, resolver problemas e aprender coisas novas. No momento, meu hobby favorito tem sido cozinhar e testar receitas diferentes! 
+---
 
-- 📌 Aqui no GitHub, compartilho projetos e experimentos. Fique à vontade para explorar!  
+### 🚀 About Me
 
-- 📫 Quer trocar uma ideia? Me chama!  
+- 📱 **Mobile First:** Specializing in **Flutter (Dart)** for iOS & Android.
+- ☁️ **Full Stack:** Experienced with **Node.js**, **Supabase**, **Firebase**, and **GCP**.
+- 🎓 **Academic:** Finishing my B.Sc. in Computer Engineering at UFOP.
+- 🧩 **Hobbies:** When I'm not coding, I'm training logic by speed-solving **Rubik's Cubes**!
+- ⚡ **Fun fact:** I love tackling complex algorithms and Clean Code challenges.
 
-<p align="center">
-<!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/luisabritodias/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"/>
-<a href="mailto:luisabritodev@gmail.com"><img src="https://img.shields.io/badge/-luisabritodev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
+---
 
-## 🛠 Tech Stack
-### 💻 Front-end:
+### 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+**Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Back-end e banco de dados:
+**Backend & Cloud**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
-## 🚀 Um pouco mais sobre o meu perfil
-
-![Luisa Brito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisabritod&show_icons=true&theme=dracula)
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+---
+
+### 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/luisabritodias" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:luisabritodev@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
